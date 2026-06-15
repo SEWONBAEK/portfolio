@@ -93,12 +93,9 @@
 
 # <image src="/images/user-star.svg"> Contact
 
-- E-mail : wlstjsdyd911@naver.com
-- Blog : <a href="https://velog.io/@seonyong-dev/posts">
-  https://velog.io/@seonyong-dev
-  </a>
-- Portfolio Website : <a href="https://seonyong-dev.github.io/">
-  https://seonyong-dev.github.io/
+- E-mail : bsw0329@gmail.com
+- Portfolio Website : <a href="https://SEWONBAEK.github.io/">
+  https://SEWONBAEK.github.io/
   </a>
 
 ---
