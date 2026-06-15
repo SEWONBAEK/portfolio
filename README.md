@@ -33,7 +33,7 @@
 >> - Communication : AJAX(via jQuery)
 >> - Template Engine: JSP
 >>
->> [프로젝트 링크](https://github.com/seonyong-dev/eLMS.git)
+>> [프로젝트 링크](https://github.com/SEWONBAEK/eLMS)
 
 <br />
 
