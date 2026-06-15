@@ -22,21 +22,21 @@
 > 숙소예약 플랫폼
 >
 > - 개발기간 : 2025.08.25 ~ 25.09.30(5주)
-> - 핵심 역할 : 팀장, 로그인&교사 파트 전반적인 로직 구현
+> - 핵심 역할 : 팀장, 비즈니스 회원 기능 구현, 관리자 기능 구현, 예약 및 결제 시스템 구현(kakao pay), 일반 회원 및 소셜로그인 리팩토링
 >
 >> Back-end
 >> - Language : Java
 >> - Framework : Spring MVC
 >> - Database :  MySQL
 >> - Build Tool : Maven
->> - Collaboration : SVN
+>> - Collaboration : GitHub
 >
 >> Front-end
 >> - Language : javascript, HTML5, CSS3
 >> - Communication : AJAX(via jQuery)
 >> - Template Engine: JSP
 >>
->> [프로젝트 링크](https://github.com/SEWONBAEK/eLMS)
+>> [프로젝트 링크](https://github.com/SEWONBAEK/Rent)
 
 <br />
 
@@ -45,7 +45,7 @@
 > 비대면 과제관리 시스템
 >
 > - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
-> - 핵심 역할 : 팀원, 학생 파트 전반적인 로직 구현
+> - 핵심 역할 : 학생 파트 전반적인 로직 구현
 >
 >> Back-end
 >> - Language : Java
