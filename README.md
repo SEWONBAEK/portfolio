@@ -1,6 +1,6 @@
 # <image src="/images/folders.svg"> 백세원 포트폴리오입니다.
 
-해답을 찾아내는 성취감을 동력으로 나아가는 백세원입니다.
+꾸준히 학습하며 나아가는 백세원입니다.
 
 <span style="font-size:100px">"매일 러닝으로 증명하는 꾸준함"</span>
 
@@ -11,14 +11,17 @@
 
 # <image src="/images/presentation.svg"> 프로젝트
 
+25년 04월 10일부터 25년 10월 02일까지 6개월 동안 풀스택 개발자 양성과정을 통해 Java, Spring MVC, Git 등 활용하여 <br />
+'숙소예약 플랫폼' 프로젝트를 진행함으로써 직무 경험을 쌓았습니다. <br /><br />
+
 25년 10월 29일부터 26년 04월 29일까지 6개월 동안 개발자 훈련 과정을 통해 Java, Python, Spring MVC, Git, AI 등 활용하여 <br />
 '비대면 과제관리 시스템'과 '식품 커머스 플랫폼' 프로젝트를 진행함으로써 직무 경험을 쌓았습니다.
 
-## 1. ELMS
+## 1. RENT
 
-> 비대면 과제관리 시스템
+> 숙소예약 플랫폼
 >
-> - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
+> - 개발기간 : 2025.08.25 ~ 25.09.30(5주)
 > - 핵심 역할 : 팀장, 로그인&교사 파트 전반적인 로직 구현
 >
 >> Back-end
@@ -37,12 +40,35 @@
 
 <br />
 
-## 2. UNICOOK
+## 2. ELMS
+
+> 비대면 과제관리 시스템
+>
+> - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
+> - 핵심 역할 : 팀원, 학생 파트 전반적인 로직 구현
+>
+>> Back-end
+>> - Language : Java
+>> - Framework : Spring MVC
+>> - Database :  MySQL
+>> - Build Tool : Maven
+>> - Collaboration : SVN
+>
+>> Front-end
+>> - Language : javascript, HTML5, CSS3
+>> - Communication : AJAX(via jQuery)
+>> - Template Engine: JSP
+>>
+>> [프로젝트 링크](https://github.com/SEWONBAEK/eLMS)
+
+<br />
+
+## 3. UNICOOK
 
 > 개인 맞춤형 상품 추천
 >
 > - 개발기간 : 2026.03.24 ~ 26.04.27(5주)
-> - 핵심 역할 : 메인페이지 하단의 회원, 비회원 상품 추천 로직 구현 및 분석, 구매내역 상품 추천 로직 구현 및 분석
+> - 핵심 역할 : 메인페이지 상단의 회원, 비회원 시간대별 상품 추천 로직 구현 및 분석, 장바구니, 상세 페이지 상품 추천 로직 구현 및 분석
 >
 >> Back-end
 >> - Language : Python
@@ -58,19 +84,12 @@
 >> Front-end
 >> - Language : javascript, HTML5, CSS3
 >> - Communication : AJAX(via jQuery)
->> - Data Visualization: Chart.js
+>> - Data Visualization: Chart.js, apexcharts
 >>
 >> [프로젝트 링크](https://github.com/seonyong-dev/unicook.git)
 
 <br />
 <br />
-
-# <image src="/images/file-badge.svg"> Certification
-
-- 정보처리기사(2025.12.24)
-- SQLD(2026.03.27)
-- ADsP(2026.03.06)
-- 간호사 면허(2023.02.23)
 
 # <image src="/images/user-star.svg"> Contact
 
