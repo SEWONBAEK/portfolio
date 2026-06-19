@@ -21,7 +21,7 @@
 
 > 숙소예약 플랫폼
 >
-> - 개발기간 : 2025.08.25 ~ 25.09.30(5주)
+> - 개발기간 : 2025.08.25 ~ 2025.09.30(5주)
 > - 핵심 역할 : 팀장, 비즈니스 회원 기능 구현, 관리자 기능 구현, 예약 및 결제 시스템 구현(kakao pay), 일반 회원 및 소셜로그인 리팩토링
 >
 >> Back-end
@@ -44,7 +44,7 @@
 
 > 비대면 과제관리 시스템
 >
-> - 개발기간 : 2026.01.19 ~ 26.02.27(5주)
+> - 개발기간 : 2026.01.19 ~ 2026.02.27(5주)
 > - 핵심 역할 : 학생 파트 전반적인 로직 구현
 >
 >> Back-end
@@ -67,14 +67,14 @@
 
 > 개인 맞춤형 상품 추천
 >
-> - 개발기간 : 2026.03.24 ~ 26.04.27(5주)
+> - 개발기간 : 2026.03.24 ~ 2026.04.27(5주)
 > - 핵심 역할 : 메인페이지 상단의 회원, 비회원 시간대별 상품 추천 로직 구현 및 분석, 장바구니, 상세 페이지 상품 추천 로직 구현 및 분석
 >
 >> Back-end
 >> - Language : Python
 >> - Framework : Flask
 >> - Database :  MySQL
->> - Collaboration : SVN
+>> - Collaboration : Git, GitHub
 >
 >> Data & AI
 >> - Data Collection : BeautifulSoup, Selenium
@@ -87,6 +87,28 @@
 >> - Data Visualization: Chart.js, apexcharts
 >>
 >> [프로젝트 링크](https://github.com/seonyong-dev/unicook.git)
+
+<br />
+
+## 3. EXERCISE RECORD
+
+> 삼성 헬스 CSV 데이터를 이용한 걷기, 달리기 데이터
+>
+> - 1차 개발기간 : 2026.05.21 ~ 2026.05.28(7일) → 프로젝트 초안 완성
+> - 2차 개발기간 : 2026.06.15 ~ 2026.06.17(3일) → 걷기 기능 추가
+> - 핵심 역할 : 
+>
+>> Back-end
+>> - Language : Java
+>> - Framework : Spring Boot
+>> - Database :  MySQL
+>> - Collaboration : Git, GitHub
+>
+>> Front-end
+>> - Language : javascript, HTML5, CSS3
+>> - Communication : AJAX(via jQuery)
+>>
+>> [프로젝트 링크](https://github.com/SEWONBAEK/RunningRecord.git)
 
 <br />
 <br />
